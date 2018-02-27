@@ -1,1 +1,3 @@
-# Net_PD
+# Network Protocol Design Project
+
+Tallinn University of Technology
